@@ -1,0 +1,6 @@
+AES 
+Teksti i enkriptuar: ´¨? ,®<©y&³ÂÑ
+Teksti i dekriptuar: programimi
+DES 
+Teksti i enkriptuar: ªœ’@~qºv<£og,ß
+Teksti i dekriptuar: programimi
